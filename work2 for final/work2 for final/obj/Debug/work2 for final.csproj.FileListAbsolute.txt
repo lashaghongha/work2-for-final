@@ -1,0 +1,7 @@
+C:\Users\user\Desktop\work2 for final\work2 for final\obj\Debug\work2 for final.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\work2 for final\work2 for final\obj\Debug\work2 for final.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\work2 for final\work2 for final\bin\Debug\work2 for final.exe.config
+C:\Users\user\Desktop\work2 for final\work2 for final\bin\Debug\work2 for final.exe
+C:\Users\user\Desktop\work2 for final\work2 for final\bin\Debug\work2 for final.pdb
+C:\Users\user\Desktop\work2 for final\work2 for final\obj\Debug\work2 for final.exe
+C:\Users\user\Desktop\work2 for final\work2 for final\obj\Debug\work2 for final.pdb
